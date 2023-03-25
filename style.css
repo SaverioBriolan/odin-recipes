@@ -1,0 +1,10 @@
+h1{
+    font-family: 'Times New Roman', Times, serif;
+    margin: 2rem;
+    margin-left: 25%;
+    width: 500px;
+    text-align: center;
+    color: white;
+    background-color: goldenrod;
+    border-radius: 1rem;
+}
